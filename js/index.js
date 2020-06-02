@@ -11,7 +11,7 @@ $(document).ready(function () {
     var usersSearch = $("#search").val();
     var options = {
       type: "GET",
-      url: "http://www.omdbapi.com",
+      url: "https://www.omdbapi.com",
       data: {
         apikey: "54f3ec2a",
         s: usersSearch,
