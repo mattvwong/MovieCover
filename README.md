@@ -1,2 +1,4 @@
 # MovieCover
-Movie Cover Search using an API
+Search movie covers
+Using Jquery to access the OMDBAPI API
+And display search queries with movie covers
